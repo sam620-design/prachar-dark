@@ -312,7 +312,7 @@ export default function Home() {
             }}
           >
             <Image
-              src="/socialmedia-952091_1920-Photoroom-photoroom.png"
+              src="/socialmedia-952091_1920-Photoroom-Photoroom.png"
               alt="Final Merged Image"
               width={500}
               height={500}
