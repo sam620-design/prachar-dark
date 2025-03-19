@@ -50,14 +50,14 @@ export default function Home() {
   ];
 
   const imageSegments = [
-    "/socialmedia-952091_1920-Photoroom-1-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-2-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-3-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-4-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-5-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-6-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-7-photoroom.png",
-    "/socialmedia-952091_1920-Photoroom-8-photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-1-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-2-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-3-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-4-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-5-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-6-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-7-Photoroom.png",
+    "/socialmedia-952091_1920-Photoroom-8-Photoroom.png",
   ];
 
   const brands = ["Xerox", "Sony", "P&G", "NYU", "UP"];
