@@ -647,7 +647,7 @@ export default function Home() {
                   className="bg-black text-white px-8 py-4 rounded-lg text-lg shadow-lg hover:shadow-xl transition-all"
                   onClick={() => setIsAboutModalOpen(true)} // Open modal
                 >
-                  About
+                  know more...
                 </Button>
               </motion.div>
             </motion.div>
